@@ -7,9 +7,9 @@ export const tabs = [
         dest: '/',
     },
 	{
-		icon: 'groups'
-		label: 'Managers'
-		dest: '/managers'
+		icon: 'groups',
+		label: 'Managers',
+		dest: '/managers',
 	},
     {
         icon: 'sports',
