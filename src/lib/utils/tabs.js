@@ -8,7 +8,7 @@ export const tabs = [
     },
 	{
 		icon: 'groups',
-		label: 'Teams',
+		label: 'Managers',
 		dest: '/managers',
 	},
     {
