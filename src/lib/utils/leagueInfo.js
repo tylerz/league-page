@@ -180,11 +180,11 @@ export const managers = [
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Marshall",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Akron", // (optional)
+      "location": "Detroit", // (optional)
       "bio": "bio here",
       "photo": "/managers/cory.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Corey", // Can be anything (usually your rival's name)
