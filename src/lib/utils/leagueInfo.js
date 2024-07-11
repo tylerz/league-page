@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>DUDES IN POOLS DYNASTY EST 2023</p>
   <p>HISTORICAL REDRAFT HISTORY:</p>
-  <img src="/static/DIP_Results.png"/> 
+  <img src="/DIP_Results.png"/> 
 `;
 
 /*   STEP 3   */
