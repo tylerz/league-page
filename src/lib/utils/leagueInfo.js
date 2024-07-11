@@ -1,18 +1,23 @@
 /*   STEP 1   */
 export const leagueID = "1048314283152527360"; // your league ID
-export const leagueName = "DUDES IN POOLS"; // your league name
+export const leagueName = "DUDES IN POOLS DYNASTY"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>DUDES IN POOLS DYNASTY EST 2023</p>
+  <p>Year	1st	2nd	3rd
+2015	Joe Shafer	AJ Claycomb	Chris Spolarich
+2016	Brandon Tomanek	Jeff Stuver	AJ Claycomb
+2017	AJ Claycomb	Tyler Zimmer	Brandon Tomanek
+2018	Chris Spolarich	Mike Dumont	Jeff Williams
+2019	Tyler Zimmer	Cory Harbin	Jeff Stuver
+2020	DNP	DNP	DNP
+2021	Marshall Frisco	Mike Dumont	Corey Papcun
+2022	AJ Claycomb	Mike Dumont	Tom Carpenter
+2023	Cory Harbin	Jeff Williams	Joe Shafer</p>
 `;
 
 /*   STEP 3   */
