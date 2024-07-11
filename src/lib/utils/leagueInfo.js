@@ -8,16 +8,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>DUDES IN POOLS DYNASTY EST 2023</p>
-  <p>Year	1st	2nd	3rd
-2015	Joe Shafer	AJ Claycomb	Chris Spolarich
-2016	Brandon Tomanek	Jeff Stuver	AJ Claycomb
-2017	AJ Claycomb	Tyler Zimmer	Brandon Tomanek
-2018	Chris Spolarich	Mike Dumont	Jeff Williams
-2019	Tyler Zimmer	Cory Harbin	Jeff Stuver
-2020	DNP	DNP	DNP
-2021	Marshall Frisco	Mike Dumont	Corey Papcun
-2022	AJ Claycomb	Mike Dumont	Tom Carpenter
-2023	Cory Harbin	Jeff Williams	Joe Shafer</p>
+  <p>HISTORICAL REDRAFT HISTORY:</p>
+  <img src="/DIP_results.png"/> 
 `;
 
 /*   STEP 3   */
