@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>DUDES IN POOLS DYNASTY EST 2023</p>
-  <p>HISTORICAL REDRAFT HISTORY:</p>
+  <p>DUDES IN POOLS DYNASTY EST. 2023</p>
+  <p>REDRAFT HISTORY:</p>
   <img src="/DIP_results.png"/> 
 `;
 
