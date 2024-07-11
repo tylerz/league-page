@@ -156,9 +156,9 @@ export const managers = [
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Tom",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Akron", // (optional)
+      "location": "Tampa", // (optional)
       "bio": "bio here",
       "photo": "/managers/cory.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
@@ -178,7 +178,7 @@ export const managers = [
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Marshall",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Akron", // (optional)
       "bio": "bio here",
@@ -200,7 +200,7 @@ export const managers = [
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Jeff W",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Akron", // (optional)
       "bio": "bio here",
@@ -222,7 +222,7 @@ export const managers = [
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Mike",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Akron", // (optional)
       "bio": "bio here",
@@ -244,7 +244,7 @@ export const managers = [
     },
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Jeff S",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Akron", // (optional)
       "bio": "bio here",
@@ -266,7 +266,7 @@ export const managers = [
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "ss",
+      "name": "Brandon",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Akron", // (optional)
       "bio": "bio here",
