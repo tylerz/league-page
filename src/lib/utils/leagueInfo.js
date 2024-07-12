@@ -19,14 +19,16 @@ export const homepageText = `
   <p>HISTORICAL KEEPER/REDRAFT RECORDS:</p>
   <img src="/DIP_results.png"/>
   <hr width="100%;" color="white" size="4">
-  <p>Still owes league fee ($50) for 2024 season:</p>
-  <p>Jeff S
-  <p>Joe
-  <p>Jeff W
-  <p>Jake
-  <p>Mike
-  <p>Cory H
-  <p>Brandon</p>
+  <p>Still owes league fee ($50) for 2024 season:<ul>
+   <li>Jeff S</li>
+    <li>Joe</li>
+    <li>Jeff W</li>
+	<Li>Jake</Li>
+	<Li>Mike</Li>
+	<Li>Cory H</Li>
+	<Li>Brandon</Li>
+	</ul>
+  </p>
 `;
 
 /*   STEP 3   */
