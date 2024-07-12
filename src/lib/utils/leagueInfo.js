@@ -1,14 +1,14 @@
 /*   STEP 1   */
 export const leagueID = "1048314283152527360"; // your league ID
-export const leagueName = "DUDES IN POOLS DYNASTY"; // your league name
+export const leagueName = "DUDES IN POOLS DYNASTY LEAGUE"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>DUDES IN POOLS DYNASTY EST 2023</p>
-  <p>HISTORICAL REDRAFT HISTORY:</p>
+  <p>DUDES IN POOLS DYNASTY -- EST. 2023</p>
+  <p>HISTORICAL KEEPER/REDRAFT RECORDS:</p>
   <img src="/DIP_results.png"/> 
 `;
 
