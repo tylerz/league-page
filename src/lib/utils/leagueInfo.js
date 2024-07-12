@@ -9,12 +9,16 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>DUDES IN POOLS DYNASTY -- EST. 2023</p>
   <hr width="100%;" color="white" size="4">
-  <p>Yearly Winnings: 1st = $400.00, 2nd = $150.00, 3rd = $50.00</p>
+  <p>Yearly Winnings:<ul>
+    <li>1st = $400.00</li>
+    <li>2nd = $150.00</li>
+    <li>3rd = $50.00</li>
+	</ul>
+  </p>
   <hr width="100%;" color="white" size="4">
   <p>HISTORICAL KEEPER/REDRAFT RECORDS:</p>
   <img src="/DIP_results.png"/>
-  <br>
-  <br>
+  <hr width="100%;" color="white" size="4">
   <p>Still owes league fee ($50) for 2024 season:</p>
   <p>Jeff S
   <p>Joe
