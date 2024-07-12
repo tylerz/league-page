@@ -9,7 +9,17 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>DUDES IN POOLS DYNASTY -- EST. 2023</p>
   <p>HISTORICAL KEEPER/REDRAFT RECORDS:</p>
-  <img src="/DIP_results.png"/> 
+  <img src="/DIP_results.png"/>
+  <br>
+  <br>
+  <p>Still owes league fees for 2024 season:</p>
+  <p>Jeff S</p>
+  <p>Joe</p>
+  <p>Jeff W</p>
+  <p>Jake</p>
+  <p>Mike</p>
+  <p>Cory H</p>
+  <p>Brandon</p>
 `;
 
 /*   STEP 3   */
