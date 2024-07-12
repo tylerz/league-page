@@ -12,13 +12,13 @@ export const homepageText = `
   <img src="/DIP_results.png"/>
   <br>
   <br>
-  <p>Still owes league fees for 2024 season:</p>
-  <p>Jeff S</p>
-  <p>Joe</p>
-  <p>Jeff W</p>
-  <p>Jake</p>
-  <p>Mike</p>
-  <p>Cory H</p>
+  <p>Still owes league fee ($50) for 2024 season:</p>
+  <p>Jeff S
+  <p>Joe
+  <p>Jeff W
+  <p>Jake
+  <p>Mike
+  <p>Cory H
   <p>Brandon</p>
 `;
 
